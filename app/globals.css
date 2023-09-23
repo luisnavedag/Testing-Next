@@ -8,6 +8,15 @@ body {
     margin: 0;
 }
 
+.div-post{
+  padding: 50px;
+}
+.div-info{
+  padding: 50px;
+}
+.div-about{
+  padding: 50px;
+}
 ul{
 
 }
