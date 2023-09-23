@@ -1,5 +1,19 @@
 .header{
     width: 100vw;
+    height: 10vh;
     border: 1px solid white;
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.list li:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
